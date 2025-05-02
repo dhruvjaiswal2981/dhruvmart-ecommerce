@@ -2,8 +2,8 @@
 
 A modern e-commerce frontend built with React.js, Tailwind CSS, and the FakeStoreAPI.
 
-![DhruvMart Screenshot](./src/assets/screenshot.png)
-![DhruvMart Screenshot](./src/assets/screenshot-1.png)
+- ![DhruvMart Screenshot](./src/assets/screenshot.PNG)
+- ![DhruvMart Screenshot](./src/assets/screenshot-1.PNG)
 
 ## Features
 
