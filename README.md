@@ -96,7 +96,7 @@ src/
     - Access it here: https://dhruv-mart.netlify.app/
 
 ## Live Demo
-    - Demo Video Link : https://drive.google.com/file/d/1vBDE5ZiIwOS8eCHBXThmKCDR0Jf9TOBC/view?usp=sharing
+- Demo Video Link : https://drive.google.com/file/d/1vBDE5ZiIwOS8eCHBXThmKCDR0Jf9TOBC/view?usp=sharing
 
 ## 📌 Author
 - 💻 Developed by Dhruv Jaiswal
